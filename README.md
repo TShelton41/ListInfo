@@ -1,6 +1,6 @@
 # List Information App using Ionic
 
-This is the finished project for the tutorial on how to create a list app and pass params to a new view in Ionic. You can find the tutorial here: 
+This is the finished project for the tutorial on how to create a list app and pass params to a new view in Ionic. You can find the tutorial here: https://youtu.be/9c_98PcDg0o
 
 ## What you need first
 
