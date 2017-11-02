@@ -8,3 +8,7 @@ If you want to know more and how to ge started watch this video: https://youtu.b
 
 This will tell you everything you need to know to get started making an application in Ionic. 
 
+### Cloning Ionic project
+
+If you need help cloning this project and getting it running on your machine watch this video: https://youtu.be/5iT4RQGctZ4
+
